@@ -1,0 +1,29 @@
+{
+    "person": {
+      "name": "Alice Johnson",
+      "age": 28,
+      "occupation": "Software Engineer"
+    },
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    },
+    "items": [
+      {
+        "name": "Widget",
+        "price": 9.99
+      },
+      {
+        "name": "Gadget",
+        "price": 19.99
+      },
+      {
+        "name": "Doodad",
+        "price": 5.99
+      }
+    ],
+    "isMember": true
+  }
+  
